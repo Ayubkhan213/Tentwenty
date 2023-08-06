@@ -1,7 +1,7 @@
 // ignore_for_file: avoid_print
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
-import 'package:tentwenty/app/trailer/controller/trailer_model.dart';
+import 'package:tentwenty/app/trailer/model/trailer_model.dart';
 import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 
 class TrailerController extends GetxController {
